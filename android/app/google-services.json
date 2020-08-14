@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897385146095",
+    "firebase_url": "https://bbp2-a8cdb.firebaseio.com",
+    "project_id": "bbp2-a8cdb",
+    "storage_bucket": "bbp2-a8cdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897385146095:android:69f7720ac5c76d3d24dd1a",
+        "android_client_info": {
+          "package_name": "winmacsoul.bbp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897385146095-e6k5f3beisej7u2rnr94uflp93leaho3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIXTxKcVufUZRfJNqAmdsuRpcoKRzUVw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897385146095-e6k5f3beisej7u2rnr94uflp93leaho3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
