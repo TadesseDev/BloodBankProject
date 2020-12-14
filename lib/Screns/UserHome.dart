@@ -12,7 +12,7 @@ import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:bbp2/MapServices//GeoCoder_getName.dart';
 
 class Home extends StatefulWidget {
-  final Function mapState;
+  final Function mapState; 
 
   Home({this.mapState});
 
