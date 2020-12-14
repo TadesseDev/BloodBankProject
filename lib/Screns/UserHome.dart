@@ -118,7 +118,7 @@ class _DonorHomeState extends State<DonorHome> {
   String userLocation = 'this is the user location';
 
   Future<void> setUserLocation() async {
-    userLocation = await userLocationName();
+    String userLocation = await userLocationName();
     setState(() {
       print('user location is #${userLocation}');
     });
