@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Down load the project and bild the app]() 🙂
+[Down load the project and build the app]() 🙂
 
 ## Getting Started
 
